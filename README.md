@@ -19,4 +19,4 @@ Atualmente, estou ampliando minha atuação para o campo de **desenvolvimento de
 A combinação da minha experiência em **geoprocessamento** com os conhecimentos adquiridos em **desenvolvimento de software** me permite criar **soluções inovadoras** e **integradas** para análise e gestão de dados espaciais, atendendo a demandas **complexas e multidisciplinares**.
 
 ## 📫 Contato
-🔗 [LinkedIn]((https://www.linkedin.com/in/pamela-freitas-7ba97a160/))
+🔗 [LinkedIn](https://www.linkedin.com/in/pamela-freitas-7ba97a160/)
